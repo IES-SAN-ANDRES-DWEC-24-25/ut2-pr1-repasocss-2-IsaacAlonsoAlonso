@@ -1,0 +1,16 @@
+td{
+    background-color: #ed8f63;
+    border: 1px solid black;
+}
+
+th{
+    background-color: #6495ed;
+    color:white;
+}
+.provincia{
+    color:#edf90b ;
+}
+table{
+    text-align: center;
+    width: 40%;
+}
