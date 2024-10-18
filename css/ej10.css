@@ -1,0 +1,25 @@
+h2 {
+    margin: 20px 0;
+}
+.parrafo {
+    margin: 20px 0;
+}
+.primera-letra {
+    font-size: 2em;
+    float: left;
+    margin-right: 5px;
+}
+.color-rojo {
+    color: red;
+}
+.seleccion {
+    background-color: yellow;
+    color: red;
+}
+.icono {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url('ruta-al-icono.png') no-repeat center center;
+    background-size: contain;
+}
