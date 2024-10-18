@@ -1,25 +1,14 @@
-h2 {
-    margin: 20px 0;
+p{
+    font-size: 30px;
 }
-.parrafo {
-    margin: 20px 0;
+p::first-letter{
+    font-size: 60px;
+    text-align: left;
 }
-.primera-letra {
-    font-size: 2em;
-    float: left;
-    margin-right: 5px;
+p::first-line{
+    color:red;
 }
-.color-rojo {
+::selection{
     color: red;
-}
-.seleccion {
     background-color: yellow;
-    color: red;
-}
-.icono {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    background: url('ruta-al-icono.png') no-repeat center center;
-    background-size: contain;
 }
